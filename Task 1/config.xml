@@ -1,0 +1,7 @@
+<config>
+    <file
+            source_path="/Users/chalbysheva/Desktop/"
+            destination_path="/Users/chalbysheva/Desktop/new_folder/"
+            file_name="file.rtf"
+    />
+</config>
